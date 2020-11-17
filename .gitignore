@@ -8,3 +8,6 @@ build
 .scalafmt.conf
 .project
 .classpath
+
+bin
+.settings
